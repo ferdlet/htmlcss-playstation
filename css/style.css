@@ -2,3 +2,19 @@
 .ms_header-top {
     background-color: black;
 }
+
+/* Jumbotron */
+.ms_jumbotron {
+    background-image: url(../img/jumbo-bg.png);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+
+.ms_img-title {
+    width: 60%;
+}
+
+.ms_bgc-red {
+    background-color: red;
+}
