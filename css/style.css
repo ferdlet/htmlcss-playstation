@@ -12,9 +12,25 @@
 }
 
 .ms_img-title {
-    width: 60%;
+    width: 200px;
 }
 
 .ms_bgc-red {
     background-color: red;
+}
+
+/* Slider */
+.ms_img-slider {
+    width: 100%;
+}
+
+.ms_border-radius-15px {
+    border-radius: 15px;
+}
+ 
+.ms_card-slider:hover {
+    border-radius: 15px;
+    overflow: hidden;
+    padding: 2px;
+    border: 1px solid blue;
 }
