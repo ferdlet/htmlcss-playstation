@@ -2,6 +2,12 @@ html {
     font-size: 12px;
 }
 
+@media screen and (min-width: 768px) {
+    html {
+        font-size: 15px;
+    }
+}
+
 body {
     font-family: 'Roboto', Arial, sans-serif;
 }
@@ -12,7 +18,7 @@ body {
 }
 
 .ms_header-top img {
-    width: 4%;
+    height: 12px;
 }
 
 /* Jumbotron */
@@ -75,4 +81,25 @@ body {
 
 .ms_bgc-lightgray {
     background-color: lightgray;
+}
+
+.ms_bgc-darkblue {
+    background-color: darkblue;
+}
+
+.ms_bgc-white {
+    background-color: #fff;
+}
+
+/* Footer */
+.ms_language {
+    height: 14px;
+}
+
+.ms_sie-logo {
+    height: 40px;
+}
+
+.ms_ps-logo {
+    width: 90px;
 }
