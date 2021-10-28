@@ -68,3 +68,11 @@ body {
 .ms_bgc-black {
     background-color: black;
 }
+
+.ms_bgc-gray {
+    background-color: gray;
+}
+
+.ms_bgc-lightgray {
+    background-color: lightgray;
+}
