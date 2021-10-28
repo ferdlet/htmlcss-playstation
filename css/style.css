@@ -21,6 +21,10 @@ body {
     height: 12px;
 }
 
+.ms_chevron {
+    height: 14px;
+}
+
 /* Jumbotron */
 .ms_jumbotron {
     background-image: url(../img/jumbo-bg.png);
