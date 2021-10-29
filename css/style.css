@@ -33,6 +33,12 @@ body {
     background-size: cover;
 }
 
+@media screen and (min-width: 992px) {
+    .ms_jumbotron {
+        height: 600px;
+    }
+}
+
 .ms_img-title {
     width: 200px;
 }
