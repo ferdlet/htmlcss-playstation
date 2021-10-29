@@ -21,6 +21,17 @@ body {
     height: 12px;
 }
 
+header {
+    display: unset;
+}
+
+.ms_header-bottom {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+
 .ms_chevron {
     height: 14px;
 }
